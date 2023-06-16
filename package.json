@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "vite",
-    "build-css": "tailwindcss build -i ./src/styles.css -o ./public/styles.css",
-    "tailwind": "npx tailwindcss -i ./src/styles.css -o ./public/styles.css --watch"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
