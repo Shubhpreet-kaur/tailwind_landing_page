@@ -9,14 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Shubhpreet-kaur/tailwind_landing_page.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Shubhpreet-kaur/tailwind_landing_page/issues"
-  },
-  "homepage": "https://github.com/Shubhpreet-kaur/tailwind_landing_page#readme",
+  "homepage": "https://Shubhpreet-kaur.github.io/tailwind_landing_page",
   "keywords": [],
   "author": "",
   "license": "ISC",
