@@ -5,7 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "vite"
+    "start": "vite",
+    "build-css": "tailwindcss build -i ./src/styles.css -o ./public/styles.css",
+    "tailwind": "npx tailwindcss -i ./src/styles.css -o ./public/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubhpreet-kaur/tailwind_landing_page.git"
   },
   "keywords": [],
   "author": "",
