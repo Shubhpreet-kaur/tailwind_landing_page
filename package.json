@@ -13,6 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/Shubhpreet-kaur/tailwind_landing_page.git"
   },
+  "bugs": {
+    "url": "https://github.com/Shubhpreet-kaur/tailwind_landing_page/issues"
+  },
+  "homepage": "https://github.com/Shubhpreet-kaur/tailwind_landing_page#readme",
   "keywords": [],
   "author": "",
   "license": "ISC",
